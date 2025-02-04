@@ -1,1 +1,13 @@
-# test-repo
+# Test Cases
+
+Below is the list of test cases for the furniture website:
+
+| Test Case ID | Description                          | Steps                                        | Expected Result           | Actual Result | Status  | Remarks           |
+|-------------|----------------------------------|--------------------------------------------|--------------------------|--------------|---------|------------------|
+| TC001       | Validate product listing        | Open product page > Verify products       | Products displayed       | TBD          | Pending | Needs verification |
+| TC002       | Test API error handling        | Discount API > Refresh page               | Show fallback message   | TBD          | Pending | Needs testing     |
+| TC003       | Check cart functionality       | Add item to cart > Verify cart            | Cart updates correctly  | TBD          | Pending | To be tested      |
+| TC004       | Test responsiveness layout     | Resize window layout > Browser check      | Layout adjusts properly | TBD          | Pending | Responsive check  |
+| TC005       | Checkout process validation    | Add item > Proceed to checkout > Pay      | Order placed successfully | TBD          | Pending | Payment testing required |
+| TC006       | Search functionality test      | Search for a product > Verify results     | Relevant products appear | TBD          | Pending | Search accuracy needs check |
+| TC007       | User login/logout test        | Login with valid credentials > Logout     | Login successful & logout works | TBD          | Pending | Auth system check  |
